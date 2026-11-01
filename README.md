@@ -116,7 +116,16 @@ line with the author and date, centred images and easy-to-read text.
 
 **[Read an article &rarr;](https://bartolcic-webdesign.github.io/sppk-redesign/pages/media/press-releases/)**
 
-### 5 · On a phone: the same website on a small screen
+### 5 · Contact page: the chamber's office
+
+People are shown as cards with a portrait, their role and a list of what they are
+responsible for, so visitors can quickly find the right person to contact.
+
+<a href="docs/screenshots/04-contact.jpg"><img src="docs/screenshots/04-contact.jpg" alt="Contact page" width="720"></a>
+
+**[Open the contacts &rarr;](https://bartolcic-webdesign.github.io/sppk-redesign/pages/contact/chamber-office/)**
+
+### 6 · On a phone: the same website on a small screen
 
 On a phone, the layout changes to a single column so that everything stays readable
 without zooming.
