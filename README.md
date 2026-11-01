@@ -13,12 +13,6 @@
 
 <br>
 
-<a href="https://bartolcic-webdesign.github.io/sppk-redesign">
-  <img src="https://img.shields.io/badge/%E2%96%B6%20%20Open%20the%20live%20website-2e7d32?style=for-the-badge" alt="Open the live website">
-</a>
-
-<br><br>
-
 [Screenshots](#screenshots) ·
 [Explore the sections](#explore-the-sections) ·
 [My role](#my-role) ·
@@ -292,7 +286,5 @@ this static copy.
 
 <div align="center">
 <br>
-<a href="https://bartolcic-webdesign.github.io/sppk-redesign"><b>Open the live website &rarr;</b></a>
-<br><br>
 <sub>Portfolio project · SPPK website redesign · 2026</sub>
 </div>
