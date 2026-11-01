@@ -19,7 +19,7 @@
 
 <br><br>
 
-[Take the tour](#take-the-tour) ·
+[Screenshots](#screenshots) ·
 [Explore the sections](#explore-the-sections) ·
 [My role](#my-role) ·
 [How it is built](#how-it-is-built) ·
@@ -62,14 +62,12 @@
 
 ---
 
-## Take the tour
+## Screenshots
 
-Click a step to open it. Each one shows a screenshot and a link to the same page on the
-live website.
+Click any screenshot to see it in full size. The link under each one opens the same
+page on the live website.
 
-<details open>
-<summary><b>1 · Home page</b>: news, calendar, weather and market prices</summary>
-<br>
+### 1 · Home page: news, calendar, weather and market prices
 
 The first thing every visitor sees. A large image slider, the latest news on the left,
 and quick information on the right: a calendar of events, a weather forecast and current
@@ -90,11 +88,7 @@ market prices of crops.
 
 **[Open the home page &rarr;](https://bartolcic-webdesign.github.io/sppk-redesign/)**
 
-</details>
-
-<details>
-<summary><b>2 · Navigation</b>: 144 menu items in one menu</summary>
-<br>
+### 2 · Navigation: 144 menu items in one menu
 
 The whole website fits into one menu. To keep it readable, a section first shows only
 its main subsections. Deeper levels open when the pointer moves onto their parent,
@@ -104,11 +98,7 @@ marked with an arrow.
 
 **[Try the menu &rarr;](https://bartolcic-webdesign.github.io/sppk-redesign/components/menu/)**
 
-</details>
-
-<details>
-<summary><b>3 · Press releases</b>: the main entry point for journalists</summary>
-<br>
+### 3 · Press releases: the main entry point for journalists
 
 All 436 press releases in one clear list, newest first, each with a date, a title, a
 short summary and a picture.
@@ -117,11 +107,7 @@ short summary and a picture.
 
 **[Browse the press releases &rarr;](https://bartolcic-webdesign.github.io/sppk-redesign/pages/media/press-releases/)**
 
-</details>
-
-<details>
-<summary><b>4 · Article page</b>: content moved over from the old website</summary>
-<br>
+### 4 · Article page: content moved over from the old website
 
 Every article from the old website was moved into the new design: a lead paragraph, a
 line with the author and date, centred images and easy-to-read text.
@@ -130,11 +116,7 @@ line with the author and date, centred images and easy-to-read text.
 
 **[Read an article &rarr;](https://bartolcic-webdesign.github.io/sppk-redesign/pages/media/press-releases/)**
 
-</details>
-
-<details>
-<summary><b>5 · On a phone</b>: the same website on a small screen</summary>
-<br>
+### 5 · On a phone: the same website on a small screen
 
 On a phone, the layout changes to a single column so that everything stays readable
 without zooming.
@@ -142,8 +124,6 @@ without zooming.
 <a href="docs/screenshots/06-mobile-home.jpg"><img src="docs/screenshots/06-mobile-home.jpg" alt="Home page on a phone" width="260"></a>
 
 **[Open it on your phone &rarr;](https://bartolcic-webdesign.github.io/sppk-redesign/)**
-
-</details>
 
 ---
 
