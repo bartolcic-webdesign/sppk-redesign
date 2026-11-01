@@ -280,8 +280,10 @@ Then open http://localhost:8000.
 >   available on the SPPK website. Members-only sections and texts intended for members
 >   were not included.
 > - **GDPR.** I asked SPPK about publishing this copy so that it would comply with GDPR.
-> - **Contact details replaced.** All e-mail addresses were replaced with
->   `meno@example.com` and all phone numbers with `+421 XXX XXX XXX`.
+> - **Contact details replaced.** On the pages of this website, all e-mail addresses
+>   were replaced with `meno@example.com` and all phone numbers with `+421 XXX XXX XXX`.
+>   The screenshot of the contact page was taken before this change and shows the
+>   contact details as they are published on the official SPPK website.
 
 Search and the login form are visual only. They need a backend, which is not part of
 this static copy.
